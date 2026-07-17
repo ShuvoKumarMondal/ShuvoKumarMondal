@@ -40,4 +40,3 @@
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
