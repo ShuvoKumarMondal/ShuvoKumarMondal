@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shuvo Kumar Mondal</h1>
+<h1 align="center">Hi 👋, I'm Shuvo Kumar </h1>
 <h3 align="center">Cloud-Native Engineer | Kubernetes • Go • DevOps</h3>
 
 <p align="center">
@@ -48,8 +48,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ShuvoKumarMondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ShuvoKumarMondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuvoKumarMondal&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShuvoKumarMondal&theme=github_dark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShuvoKumarMondal&theme=github_dark" alt="Most Commit Language" width="48%" />
 </p>
 
 <p align="center">
